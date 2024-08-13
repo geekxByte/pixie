@@ -1,6 +1,6 @@
 ## Pixie
 
-<p>This is just a simple image sharing website that consist of pages like post your own post, Explore different Images and Home Page where you can like and save different pictrures.</p>
+<p>This is just a simple image sharing website that consist of pages like create your own post, Explore different Images and Home Page where you can like and save different images.</p>
 
 ![image](https://github.com/user-attachments/assets/bdc87668-94e2-46a4-bafd-31f67e27c746)
 
